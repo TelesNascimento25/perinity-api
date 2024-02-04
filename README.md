@@ -1,2 +1,2 @@
 # perinity-api
- Perinity API test
+ Perinity API
